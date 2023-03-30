@@ -1,10 +1,11 @@
-# Secora-Development
+# Secora
 
-Important information about Secora:
-- [Website](https://secorabot.xyz/)
-- [Invite](https://secorabot.xyz/invite)
-- [Space (Dashboard)](https://secora.space)
-- [Status](https://status.secorabot.xyz)
-- [Vote](https://vote.secorabot.xyz/)
+### Links
+ - **Invite**: **[Click here](https://secorabot.xyz/invite)** to invite me to your server.
+ - **Discord**: Join my [Discord server](https://discord.gg/bVf6uQcuyx) to get updates, report issues, suggest new features, and chat with other users.
+ - **Support**: Need help with something? Check out my **[FAQ](https://secorabot.xyz/)** or join my **[Discord server](https://discord.gg/bVf6uQcuyx)** to ask for assistance.
+ - **Status**: Check my **[status page](https://status.secorabot.xyz)** to see if I'm online and operational.
 
-This bot is developed by [Tom](https://github.com/tomegb) and [Mikka](https://github.com/kxmpetentes)
+###
+
+Thanks for considering Secora as your Discord bot!
