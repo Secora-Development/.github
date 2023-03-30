@@ -11,4 +11,4 @@
 Thanks for considering Secora as your Discord bot!
 
 
-[website]: https://en.wikipedia.org/wiki/Vue.js
+[website]: https://secorabot.xyz/
