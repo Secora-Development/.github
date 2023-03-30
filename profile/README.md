@@ -1,4 +1,4 @@
-# Secora
+# Secora [<img alt="secora" width="26px" src="https://cdn.discordapp.com/attachments/932265928522088450/1047080927290994728/SecoraLogo.png" />][website]
 
 ### Links
  - **Invite**: **[Click here](https://secorabot.xyz/invite)** to invite the bot to your server.
@@ -9,3 +9,6 @@
 ###
 
 Thanks for considering Secora as your Discord bot!
+
+
+[website]: https://en.wikipedia.org/wiki/Vue.js
